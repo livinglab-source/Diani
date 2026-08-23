@@ -34,6 +34,8 @@ Pastikan laptop terhubung ke **jaringan WiFi yang sama dengan IP CCTV**.
 
 ---
 
+Link Model: https://drive.google.com/drive/folders/1yLhmi7S08G701M4KHry-CiXA5lM9Lw7w?hl=ID
+
 
 
 
